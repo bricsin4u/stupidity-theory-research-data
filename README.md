@@ -12,4 +12,4 @@ Author: Igor Sergeevich Petrenko - author, independant researcher, founder of BR
 
 The General Theory of Stupidity research data
 
-The validation code (`Validation_Study.py`), implementation details (`Calc_G_Implementation.py`), real and synthetic datasets used in this study. 
+The validation code (`Validation_Study.py`), implementation details (`Calc_G_Implementation.py`), real profiles ($N=15,000$) obtained from the open dataset Open Psychometrics Big Five and synthetic datasets used in this study. 
