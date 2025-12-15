@@ -12,6 +12,8 @@ Research results show that the component $B_{mot}$ (motivated reasoning) is **or
 
 Author: Igor Sergeevich Petrenko - author, independant researcher, founder of BRICS information and cooperation platform IN4U and aifusion research project
 
+Read more about the research and read full paper : https://aifusion.ru/en/research/theory-of-stupidity/index.html
+
 The General Theory of Stupidity research data
 
 The validation code (`Validation_Study.py`), implementation details (`Calc_G_Implementation.py`), real profiles ($N=15,000$) obtained from the open dataset Open Psychometrics Big Five and synthetic datasets used in this study. 
