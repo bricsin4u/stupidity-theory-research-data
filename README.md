@@ -1,4 +1,4 @@
-The General Theory of Stupidity
+A Formal Model of Cognitive Vulnerability (The General Theory of Stupidity)
 
 The paper is published in the collection of works CXI INTERNATIONAL SCIENTIFIC AND PRACTICAL CONFERENCE «International Scientific Review of the Problems and Prospects of Modern Science and Education». USA, Boston, December, 2025
 
